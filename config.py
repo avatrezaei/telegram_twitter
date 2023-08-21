@@ -1,0 +1,16 @@
+ 
+# Consumer Keys
+CONSUMER_API_KEY = ''
+CONSUMER_API_KEY_SECRET = ''
+# Authentication Tokens
+BEARE_TOKEN = ""
+ACCESS_TOKEN =''
+ACCESS_TOKEN_SECRET = ''
+#  Telegram BOT API KEY and receiver CHANNEL ID
+TELEGRAM_BOT_API_KEY = ''
+TELEGRAM_CHANNEL_ID = ''
+
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+REDIRECT_URI='http://127.0.0.1:5000/oauth/callback'
+ 
